@@ -1,2 +1,2 @@
-# springcap-01
-Springboard Capstone Project #1
+# First springcap
+Springboard Capstone Project
