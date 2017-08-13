@@ -22,4 +22,14 @@ This is the notes page.  This will start originally with ideas, points, and ever
   * Combine real-time with historical to predict possible outcomes
 
 
-# 3 August 
+# 3 August 13 
+## References (Non-Exhaustive)
+* Todd W. Schneider: http://toddwschneider.com/posts/a-tale-of-twenty-two-million-citi-bikes-analyzing-the-nyc-bike-share-system/
+* Tonji University Bike DV: https://upcommons.upc.edu/bitstream/handle/2117/80013/PFCDavid.pdf
+* Network analysis: http://vlado.fmf.uni-lj.si/Pub/slides/bikes16.pdf 
+* Activity Patterns: https://www.researchgate.net/publication/251714314_Understanding_Bike-Sharing_Systems_using_Data_Mining_Exploring_Activity_Patterns
+* Bay Area Bike Share with Tableau: https://angel.co/projects/298837-visual-analytics-bay-area-bike-share-analysis-using-tableau
+* NYC Data Science: http://blog.nycdatascience.com/student-works/r-shiny/graphic-look-bay-area-bike-share/
+* https://www.semanticscholar.org/paper/Data-Analysis-and-Optimization-for-Citi-Bike-Shari-O-Mahony-Shmoys/c2a1f8b4f98befd2749acd1260313a7317c987b1
+
+## 
