@@ -22,7 +22,10 @@ This is the notes page.  This will start originally with ideas, points, and ever
   * Combine real-time with historical to predict possible outcomes
 
 
-# 3 August 13 
+# 3 August 16 
+* Original work from Luis Vale Dasilva (PharmD): http://luisvalesilva.com/datasimple/citibike.html
+* UPLOAD Python notebook mimicking Luis's code for one month
+
 ## References (Non-Exhaustive)
 * Todd W. Schneider: http://toddwschneider.com/posts/a-tale-of-twenty-two-million-citi-bikes-analyzing-the-nyc-bike-share-system/
 * Tonji University Bike DV: https://upcommons.upc.edu/bitstream/handle/2117/80013/PFCDavid.pdf
