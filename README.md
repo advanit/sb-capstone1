@@ -1,6 +1,6 @@
 # CITIBIKE Z
-## Exploring Gen Z's Growing Numbers of Using Citibikes in Summer
-## Springboard Capstone 1 Project
+**Exploring Gen Z's Growing Numbers of Using Citibikes in Summer**
+Springboard Capstone 1 Project
 
 **Final Deliverables**:
 * Final Code: https://github.com/tiadvani/sb-capstone1/blob/master/final_code.ipynb
