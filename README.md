@@ -7,7 +7,7 @@ Creator: Tim Advani
 **Final Deliverables**:
 * Final Code: https://github.com/tiadvani/sb-capstone1/blob/master/final_code.ipynb
 * Report: https://docs.google.com/document/d/10YGSP2aLOtQxE62mkCOJWRY5AVABdiNICd-g9g4V2LU/edit?usp=sharing
-* Slide Deck: https://docs.google.com/document/d/10YGSP2aLOtQxE62mkCOJWRY5AVABdiNICd-g9g4V2LU/edit?usp=sharing
+* Slide Deck: https://docs.google.com/presentation/d/1MChQw7mgvOqhT--390_NNG2zwTXAtwsrJtkGrGn557I/edit?usp=sharing
 
 **Milestones**:
 * Proposal: https://github.com/tiadvani/sb-capstone1/blob/master/SB-002%20Capstone%20Proposal.docx
